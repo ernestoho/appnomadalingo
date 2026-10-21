@@ -1,0 +1,8 @@
+{
+  "name": "NómadaLingo",
+  "description": "Language exchange community for nomads and travelers to connect, learn languages, and attend local events.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
